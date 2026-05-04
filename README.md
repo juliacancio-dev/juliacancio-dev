@@ -43,7 +43,6 @@ Meu Trabalho de Conclusão de Curso (TCC) da ETEC, um sistema fullstack de gest�
 | **GitHub** | [juliacancio-dev](https://github.com/juliacancio-dev) |
 | **Email** | julia.cancio.jesus@outlook.com |
 | **Email** | julia.cancio.jesus@gmail.com |
-| **Email** | julia.cancio.jesus@outlook.com |
 
 ---
 *Este perfil é um trabalho em progresso, assim como minha jornada de aprendizado. Fique à vontade para explorar meus repositórios!*
