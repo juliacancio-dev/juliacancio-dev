@@ -1,48 +1,32 @@
-# Olá! Eu sou a Julia Cancio 👋
+## 💜 Olá, meu nome é Julia Cancio!
 
-Desenvolvedora Backend Júnior em formação, apaixonada por transformar lógica em soluções robustas e escaláveis.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Estudante de **Análise e Desenvolvimento de Sistemas (FATEC)** e formada em **Técnico em Desenvolvimento de Sistemas (ETEC)**, estou focada em consolidar minha carreira no desenvolvimento backend.
+<p align="left"> 
 
-## 🚀 Foco Atual: Java e Ecossistema Corporativo
+  Sou <strong>Desenvolvedora Backend Júnior</strong> com 1 ano de experiência profissional.
+  Também sou estudante de Análise e Desenvolvimento de Sistemas e sou formada em Técnica em Desenvolvimento de Sistemas. 
+  Atualmente, estou focada em desenvolver minhas habilidades em desenvolvimento backend e contribuir para projetos que façam a diferença!
 
-Atualmente, estou imersa no estudo aprofundado de **Java** e do framework **Spring Boot**, visando o mercado corporativo e de grandes sistemas.
+</p>
 
-## 🛠️ Minhas Habilidades Técnicas
+<p align="left">
+  🦄 Linguagens: Java, SQL (MySQL, PostgreSQL em estudo), JavaScript (Node.js básico), PHP, HTML, CSS, JSON, C++ (básico).
+</p>
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | Java (Estudando), PHP, Node.js (Básico) |
-| **Banco de Dados** | SQL (MySQL, PostgreSQL), NoSQL (MongoDB - Básico) |
-| **Frontend** | JavaScript (ES6+), HTML5, CSS3, Bootstrap |
-| **Ferramentas** | Git, GitHub, APIs REST, Testes de Software (Caixa Branca/Preta) |
-| **Conceitos** | POO, Estrutura de Dados, Redes (IP, DHCP, DNS) |
+<p align="left">
+  💼 Ferramentas: IntelliJ IDEA (JetBrains), Git, GitHub, MySQL, HeidiSQL, Trello, VirtualBox, VS Code, AWS (básico), Antigravity.
+</p>
 
-## 💡 Projeto em Destaque
+<p align="left">
+  📫 Como me encontrar: ⤵️
+</p>
 
-### [TCC - Sistema Web de Gerenciamento de Estoque](https://github.com/juliacancio-dev/TCC-Sistema-CA)
-
-Meu Trabalho de Conclusão de Curso (TCC) da ETEC, um sistema fullstack de gestão de estoque desenvolvido em **PHP, JavaScript e MySQL**. Este projeto foi validado e adotado por um cliente real, demonstrando minha capacidade de entregar soluções de ponta a ponta.
-
-**Funcionalidades Principais:**
-- CRUD completo para produtos, fornecedores e usuários.
-- Geração de relatórios automáticos de lucro e estoque.
-- Integração com API de CEP.
-- Exportação de dados para PDF e Excel.
-
-## 🌱 O que estou aprendendo agora
-
-- **Java e Spring Boot:** Construção de APIs RESTful e microserviços.
-- **IA para Devs:** Utilizando ferramentas como GitHub Copilot para otimizar o fluxo de trabalho e aumentar a produtividade.
-
-## 🤝 Conecte-se Comigo
-
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | [juliacancio-dev](https://www.linkedin.com/in/juliacancio-dev/) |
-| **GitHub** | [juliacancio-dev](https://github.com/juliacancio-dev) |
-| **Email** | julia.cancio.jesus@outlook.com |
-| **Email** | julia.cancio.jesus@gmail.com |
-
----
-*Este perfil é um trabalho em progresso, assim como minha jornada de aprendizado. Fique à vontade para explorar meus repositórios!*
+<p align="left">
+  <a href="mailto:julia.cancio.jesus@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juliacancio-dev/">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
