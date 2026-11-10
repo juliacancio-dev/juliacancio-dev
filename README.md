@@ -45,44 +45,6 @@ Gosto de entender os problemas por trás das aplicações e construir soluções
   <img src="https://skillicons.dev/icons?i=php,java,spring,mysql,html,css&theme=dark" alt="PHP, Java, Spring, MySQL, HTML, CSS" />
 </p>
 
-## Featured projects
-
-### CashTrail
-
-Plataforma de finanças pessoais desenvolvida com foco em organização financeira, arquitetura e qualidade de software.
-
-- Backend com FastAPI, organizado em vertical slices.
-- Frontend com Next.js.
-- Banco de dados PostgreSQL.
-- Decisões de arquitetura documentadas em ADRs.
-- Testes end-to-end com Playwright e pipeline de CI/CD.
-- Deploy na Microsoft Azure.
-
-**Technologies:** Python, FastAPI, TypeScript, Next.js, PostgreSQL, Docker, Azure.
-
-[Repository](https://github.com/juliacancio-dev/cashtrail) · [Live demo](https://cashtrail-frontend.ashydune-a5fddf60.brazilsouth.azurecontainerapps.io) <sub>(disponível das 06h às 23h, horário de Brasília)</sub>
-
-### Sistema CA Jesus
-
-Sistema de gestão de estoque desenvolvido como projeto de conclusão do curso técnico na ETEC e **adquirido por uma empresa**, onde continua em produção. Sou responsável pela manutenção e suporte da aplicação.
-
-- Cadastro e gerenciamento de produtos e fornecedores.
-- Controle de entradas e saídas de estoque.
-- Relatórios financeiros e operacionais, com exportação para PDF e Excel.
-- Controle de acesso por perfil (administrador e funcionário).
-
-**Technologies:** PHP, MySQL, JavaScript.
-
-[Repository](https://github.com/juliacancio-dev/Sistema_ca_jesus)
-
-### Sistema CA Jesus — Java
-
-Reimplementação do sistema de gestão de estoque em Java, com arquitetura em camadas, como estudo e comparação entre diferentes tecnologias e abordagens de desenvolvimento.
-
-**Technologies:** Java 21, Spring Boot, Spring Data JPA, Thymeleaf, MySQL.
-
-[Repository](https://github.com/juliacancio-dev/Sistema_ca_jesus_JAVA)
-
 ## GitHub analytics
 
 <p align="center">
