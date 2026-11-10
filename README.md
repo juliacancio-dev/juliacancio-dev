@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/juliacancio-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:julia.cancio.jesus@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-BR-22c55e?style=for-the-badge" />
 </p>
