@@ -16,41 +16,51 @@
 ---
 
 <!-- ===================== SOBRE ===================== -->
-###  Sobre mim
+### 👩‍💻 Sobre mim
 
--  Trabalho profissionalmente com **Python**, focada em **automação de processos e integrações backend**
--  Meu projeto de conclusão do técnico foi **comprado por uma empresa** e roda em produção até hoje — eu mantenho e dou suporte
--  Cursando **Análise e Desenvolvimento de Sistemas** · Técnica em Desenvolvimento de Sistemas
--  Meu trabalho corporativo fica em [@Julia-Cancio](https://github.com/Julia-Cancio) — as contribuições aparecem no gráfico daqui como privadas
+- Trabalho profissionalmente com **Python**, focada em **automação de processos e integrações backend**
+- Meu projeto de conclusão do técnico foi **comprado por uma empresa** e roda em produção até hoje — eu mantenho e dou suporte
+- Cursando **Análise e Desenvolvimento de Sistemas** · Técnica em Desenvolvimento de Sistemas
+- Meu trabalho corporativo fica em [@Julia-Cancio](https://github.com/Julia-Cancio) — as contribuições aparecem no gráfico daqui como privadas
+
+### ⚡ Agora
+
+-  Evoluindo o **CashTrail**, minha plataforma de finanças pessoais
+-  Me pergunte sobre **automação com Python**, **integrações backend** e **arquitetura de APIs**
 
 ---
 
-<!-- ===================== PROJETO EM DESTAQUE ===================== -->
-###  Projetos em destaque
+<!-- ===================== PROJETOS ===================== -->
+### 🚀 Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**CashTrail**](https://github.com/juliacancio-dev/cashtrail) · [demo ↗](https://cashtrail-frontend.ashydune-a5fddf60.brazilsouth.azurecontainerapps.io) | Plataforma de finanças pessoais — arquitetura documentada em ADRs, testes E2E e CI/CD com deploy na Azure | FastAPI · Next.js · PostgreSQL · Azure |
 | [**Sistema CA Jesus**](https://github.com/juliacancio-dev/Sistema_ca_jesus) | Sistema de controle de estoque — **adquirido por uma empresa e em produção** | PHP · MySQL |
-| [**Sistema CA Jesus (Java)**](https://github.com/juliacancio-dev/Sistema_ca_jesus_JAVA) | Reescrita do mesmo sistema em Java | Java · Spring Boot |
-| [**CashTrail**](https://github.com/juliacancio-dev/cashtrail) | _descreva em uma linha o que ele resolve_ | Python · ... |
+| [**Sistema CA Jesus (Java)**](https://github.com/juliacancio-dev/Sistema_ca_jesus_JAVA) | Reescrita do mesmo sistema em Java, para comparar as stacks | Java · Spring Boot |
+
+<sub>🕒 A demo do CashTrail fica no ar das 06h às 23h (horário de Brasília).</sub>
 
 ---
 
 <!-- ===================== STACK ===================== -->
-###  Stack
+### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,php,cpp&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,spring,postgres,mysql,sqlite&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,nextjs,php&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,nginx,azure&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea&theme=dark" />
 </p>
 
 ---
 
 <!-- ===================== ATIVIDADE ===================== -->
-###  Atividade
+### 🐍 Atividade
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=juliacancio-dev&theme=tokyonight&hide_border=true&locale=pt_BR" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacancio-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliacancio-dev/juliacancio-dev/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliacancio-dev/juliacancio-dev/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/juliacancio-dev/juliacancio-dev/output/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+  </picture>
 </p>
